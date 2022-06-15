@@ -1,0 +1,26 @@
+{
+  "name": "heldsonluiz.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "build": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heldsonluiz/heldsonluiz.github.io.git"
+  },
+  "author": "Heldson Luiz da Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heldsonluiz/heldsonluiz.github.io/issues"
+  },
+  "homepage": "https://github.com/heldsonluiz/heldsonluiz.github.io#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "gulp": "^4.0.0",
+    "gulp-clean-css": "^3.10.0",
+    "gulp-rename": "^1.4.0"
+  }
+}
